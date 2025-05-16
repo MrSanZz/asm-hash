@@ -9,7 +9,7 @@ def find_local_bin():
     if os.path.isdir(default_path):
         return default_path
     # fallback jika tidak ada
-    raise "/usr/bin"
+    return "/data/data/com.termux/files/usr/bin"
 
 def get_architecture():
     return platform.machine()
