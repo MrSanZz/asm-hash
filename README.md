@@ -16,4 +16,4 @@ ASM is not just another hash — it’s a statement of cryptographic independenc
 Whether you're building blockchain systems, securing APIs, storing passwords, or crafting your own encryption layers, ASM is the perfect fit for developers and researchers who demand originality, performance, and robustness in one powerful package.
 
 Our teams: JogjaXploit
-Developers: MrSanZz
+Developers: MrSanZz, Shoukaku07
